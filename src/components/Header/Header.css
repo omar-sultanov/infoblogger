@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+.Header h1{
+    font-family: Poppins !important;
+    font-weight: 600;
+    font-size: 48px;
+    color: #384758;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 17px;
+}
+
+.Header p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #606F81;
+    background: url('https://www.figma.com/file/QOHXuTHr6hKChqiTw6KEmY/front-test-task?node-id=36%3A948');
+}
+@media only screen and (max-width: 500px) {
+    h1{
+        font-size:28px !important;
+    }
+  }

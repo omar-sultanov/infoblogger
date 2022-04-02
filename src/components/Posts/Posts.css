@@ -1,0 +1,38 @@
+.Posts {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    width: 94%;
+}
+
+.item {
+    width: 70%;
+    text-align: left;
+
+}
+
+.icon {
+    margin: 17px;
+    width: 20%;
+    padding-right: 10px;
+}
+
+.icon_svg {
+    text-align: right;
+}
+
+#visible {
+    visibility: hidden;
+}
+
+.ellip_circle {
+    margin-top: 150px;
+    margin-left: -100px;
+}
