@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infoblogger/static/css/main.6a08a4a1.css",
+    "main.js": "/infoblogger/static/js/main.b04ccfe6.js",
+    "static/js/787.b13fdd03.chunk.js": "/infoblogger/static/js/787.b13fdd03.chunk.js",
+    "index.html": "/infoblogger/index.html",
+    "main.6a08a4a1.css.map": "/infoblogger/static/css/main.6a08a4a1.css.map",
+    "main.b04ccfe6.js.map": "/infoblogger/static/js/main.b04ccfe6.js.map",
+    "787.b13fdd03.chunk.js.map": "/infoblogger/static/js/787.b13fdd03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a08a4a1.css",
+    "static/js/main.b04ccfe6.js"
+  ]
+}
